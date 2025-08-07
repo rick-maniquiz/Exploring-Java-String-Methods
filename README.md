@@ -26,9 +26,7 @@ The length of the string is: 14
 
 **2. Observation:**
 
-```
-The length of the string is: 14
-```
+<img src="https://github.com/rick-maniquiz/Exploring-Java-String-Methods/blob/6b9e92cca30b68a85e94ac2782c7c3bd687eaae3/screenshots/1.png"/>
 
 
 -----
@@ -55,9 +53,7 @@ The character at index 5 is: l
 
 **2. Observation:**
 
-```
-The character at index 5 is: l
-```
+<img src="https://github.com/rick-maniquiz/Exploring-Java-String-Methods/blob/6b9e92cca30b68a85e94ac2782c7c3bd687eaae3/screenshots/2.png"/>
 
 -----
 
@@ -83,9 +79,7 @@ The extracted substring is: is
 
 **2. Observation:**
 
-```
-The extracted substring is: is
-```
+<img src="https://github.com/rick-maniquiz/Exploring-Java-String-Methods/blob/6b9e92cca30b68a85e94ac2782c7c3bd687eaae3/screenshots/3.png"/>
 
 -----
 
@@ -114,10 +108,7 @@ Lowercase: this is a test
 
 **2. Observation:**
 
-```
-Uppercase: THIS IS A TEST
-Lowercase: this is a test
-```
+<img src="https://github.com/rick-maniquiz/Exploring-Java-String-Methods/blob/6b9e92cca30b68a85e94ac2782c7c3bd687eaae3/screenshots/4.png"/>
 
 -----
 
@@ -149,11 +140,7 @@ Index of 'cat': -1
 
 **2. Observation:**
 
-```
-Index of 'fox': 16
-Index of 'z': 37
-Index of 'cat': -1
-```
+<img src="https://github.com/rick-maniquiz/Exploring-Java-String-Methods/blob/6b9e92cca30b68a85e94ac2782c7c3bd687eaae3/screenshots/5.png"/>
 
 -----
 
@@ -189,11 +176,7 @@ public class StringLab {
 
 **2. Observation:**
 
-```
-"Java".equals("java"): false
-"Java".equals("Java"): true
-"Java".equalsIgnoreCase("java"): true
-```
+<img src="https://github.com/rick-maniquiz/Exploring-Java-String-Methods/blob/6b9e92cca30b68a85e94ac2782c7c3bd687eaae3/screenshots/6.png"/>
 
 -----
 
@@ -223,10 +206,7 @@ Replaced: I like dogs. Cats are cute.
 
 **2. Observation:**
 
-```
-Original: I like cats. Cats are cute.
-Replaced: I like dogs. Cats are cute.
-```
+<img src="https://github.com/rick-maniquiz/Exploring-Java-String-Methods/blob/6b9e92cca30b68a85e94ac2782c7c3bd687eaae3/screenshots/7.png"/>
 
 -----
 
@@ -257,9 +237,4 @@ Trimmed string length: 14
 
 **2. Observation:**
 
-```
-Padded string length: 20
-Trimmed string: 'Lots of spaces'
-Trimmed string length: 14
-
-```
+<img src="https://github.com/rick-maniquiz/Exploring-Java-String-Methods/blob/6b9e92cca30b68a85e94ac2782c7c3bd687eaae3/screenshots/8.png"/>
